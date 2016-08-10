@@ -1,0 +1,56 @@
+/* Inserta tu codigo aqui */
+body{
+	padding: 0%;
+	margin: 0%;
+	box-sizing: border-box;
+	background-color: #2D2735;
+}
+
+.bg-encabezado{
+	background-color: #1C1821;
+	overflow: auto;
+}
+
+#logo{
+	width: 40%;
+}
+
+.header-image{
+	background-image: url("../image/header-image.jpg");
+	background-size: 100%;	
+	height: 500px;
+	background-repeat: no-repeat;
+}
+
+.spring{
+	background-color: #1C1821;
+	width: 50%;
+	height: 35%;
+	margin: 0 auto;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.bg-nombreflor{
+	background-color: red;
+}
+
+.bg-flatness{
+	background-color: yellow;
+}
+
+.bg-video{
+	background-color: blue;
+}
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
