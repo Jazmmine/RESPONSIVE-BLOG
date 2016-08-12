@@ -45,6 +45,14 @@ body{
 	background-color: blue;
 }
 
+.bg-pie{
+	color: white;
+}
+
+.text-decoration{
+	text-decoration: none;
+}
+
 /* Responsive */
 
 @media screen and (max-width : 920px) {
