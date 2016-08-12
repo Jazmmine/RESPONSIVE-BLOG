@@ -33,6 +33,15 @@ body{
 	text-align: center;
 }
 
+a{
+	text-decoration: none;
+}
+
+.espacio-barra{
+	margin-left: 1%;
+	margin-right: 1%; 
+}
+
 .bg-nombreflor{
 	background-color: red;
 }
